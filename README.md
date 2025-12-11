@@ -88,7 +88,7 @@ Designing GUI applications in Python
 
 Using Git & GitHub for version control
 
-Writing clean documentation
+Writing clean, professional documentation
 
 🧑‍💻 Author
 
@@ -98,4 +98,3 @@ Cyber Security Student | Prodigy InfoTech Intern
 GitHub: @naveen-n0
 
 🌟 Prodigy InfoTech – Cyber Security Task 01 Completed Successfully!
-
