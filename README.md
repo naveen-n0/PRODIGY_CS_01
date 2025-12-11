@@ -76,25 +76,27 @@ KHOOR → HELLO
 
 <img width="641" height="480" alt="pngaesar cipher" src="https://github.com/user-attachments/assets/a2708bdd-27aa-4539-9436-6b47854f927a" />
 
-📚 Learning Outcomes
+
+
+## **📚 Learning Outcomes**
 
 Through this task, I learned:
 
-Basics of classical cryptography
+* Basics of classical cryptography
+* How Caesar Cipher encryption works
+* Designing GUI applications in Python
+* Using Git & GitHub for version control
+* Writing clean, professional documentation
 
-How Caesar Cipher encryption works
+---
 
-Designing GUI applications in Python
+## **🧑‍💻 Author**
 
-Using Git & GitHub for version control
-
-Writing clean, professional documentation
-
-🧑‍💻 Author
-
-Naveen N
+**Naveen N**
 Cyber Security Student | Prodigy InfoTech Intern
 
-GitHub: @naveen-n0
+GitHub: **[@naveen-n0](https://github.com/naveen-n0)**
 
-🌟 Prodigy InfoTech – Cyber Security Task 01 Completed Successfully!
+---
+
+🌟 **Prodigy InfoTech – Cyber Security Task 01 Completed Successfully!**
